@@ -7,7 +7,7 @@
 I love programming and resolve problems
 FullStack Developer :computer:
 
- :rocket:  &nbsp; Studying on **IFMG**
+ :rocket:  &nbsp; I.T. by **IFMG**
  <br/> :purple_heart: &nbsp; Seaching to collab in ReactJS and Node.js projects
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; About me: I like tech, Dark Souls & read a good book
