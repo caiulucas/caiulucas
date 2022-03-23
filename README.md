@@ -1,16 +1,33 @@
-<img width="auto" src="https://scontent.fipn4-1.fna.fbcdn.net/v/t1.0-9/106282338_3222253934549071_3562120887681230949_o.jpg?_nc_cat=108&_nc_sid=e3f864&_nc_ohc=_uSheBptbYkAX-H9Wu8&_nc_ht=scontent.fipn4-1.fna&oh=846c0870f4a457984dcd7389a20480c7&oe=5F4EABD1">
+# Hi, I am Caio Lucas
 
+<div align="center">
+  <a href="https://github.com/caiulucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiulucas&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiulucas&layout=compact&langs_count=7&theme=omni"/>
+</div>
+ 
+<div style="display: inline_block"><br>
+ <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="Caio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img align="center" alt="Caio-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+## 
 
-# Caio Lucas
-
-## Hello folks 👋
-I love programming and resolve problems
-FullStack Developer :computer:
-
- :rocket:  &nbsp; I.T. by **IFMG**
- <br/> :purple_heart: &nbsp; Seaching to collab in ReactJS and Node.js projects
- <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; About me: I like tech, Dark Souls & read a good book
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-caiulucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiulucas/)](https://www.linkedin.com/in/caiulucas/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-caiolucasps2015@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiolucasps2015@gmail.com)](mailto:caiolucasps2015@gmail.com)
+<div style="display: inline-block">
+ <a href="https://wa.me/+5533988552070">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ </a>
+ <a href="mailto:caiolucasps2015@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/caio.clp">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+ </a>
+  <a href="https://linkedin.com/in/caiulucas">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+</div>
